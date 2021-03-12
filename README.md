@@ -1,3 +1,3 @@
 # Demo
 
-Description!
+I've created this repository for practice purpose.
